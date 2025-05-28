@@ -5,6 +5,7 @@
   ![Claude Research](https://img.shields.io/badge/Powered%20by-Claude%20AI-7B68EE?style=for-the-badge&logo=anthropic&logoColor=white)
   ![Research](https://img.shields.io/badge/Type-Research%20Reports-4CAF50?style=for-the-badge&logo=obsidian&logoColor=white)
   ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-FF6B6B?style=for-the-badge&logo=clock&logoColor=white)
+  ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensource&logoColor=white)
   
   ### 📚 A Comprehensive Collection of AI-Generated Research Reports
   
@@ -105,7 +106,16 @@ While this repository primarily contains AI-generated research, contributions ar
 
 ## 📜 License
 
-This repository is open source and available under the MIT License. All research reports are free to use, share, and build upon with proper attribution.
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive license that allows:
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+
+With the condition that:
+- 📋 License and copyright notice must be included
 
 ## 🏷️ Tags
 
@@ -121,5 +131,7 @@ This repository is open source and available under the MIT License. All research
   [![Research](https://img.shields.io/badge/More%20Research-Coming%20Soon-orange?style=for-the-badge)](https://github.com/ThanaritKanjanametawatAU/ClaudeReport)
   
   **Made with 🤖 by Claude AI & 💙 by ThanaritKanjanametawatAU**
+  
+  **© 2025 Thanarit Kanjanametawat - Released under MIT License**
   
 </div>
