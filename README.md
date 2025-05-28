@@ -26,6 +26,11 @@ Welcome to the **Claude Report Repository** – your centralized hub for cutting
   - Comprehensive analysis of advanced ComfyUI workflows
   - RTX 5090 optimization strategies
   - Complete feature comparisons and download links
+- [High-Fidelity Video Generation on RTX 5090: Complete ComfyUI Implementation Guide](./ComfyUI/RTX5090_Video_Generation_Guide.md) - *May 28, 2025*
+  - State-of-the-art video generation models (Wan2.1, LTX-Video, HunyuanVideo, CogVideoX-5B, Mochi 1)
+  - Optimal workflows and VRAM optimization techniques
+  - Resolution/duration capabilities and enhancement pipelines
+  - Performance benchmarks and 2025 developments
 
 ### 🤖 AI & Machine Learning
 *Coming Soon*
