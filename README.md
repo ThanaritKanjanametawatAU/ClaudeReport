@@ -33,7 +33,15 @@ Welcome to the **Claude Report Repository** – your centralized hub for cutting
   - Performance benchmarks and 2025 developments
 
 ### 🤖 AI & Machine Learning
-*Coming Soon*
+
+#### 🎯 AI Model Training
+- [Comprehensive Guide to Illustrious SDXL Training](./AI_Model_Training/Illustrious_SDXL_Training_Guide_2025.md) - *May 29, 2025*
+  - Complete training parameters and best practices for Illustrious SDXL
+  - VRAM-specific configurations (8GB, 12GB, 24GB+)
+  - Kohya_SS and CivitAI trainer setup guides
+  - Critical settings including Min SNR Gamma 1.5 for illustration datasets
+  - Dataset preparation and captioning strategies
+  - Troubleshooting common training issues
 
 ### 💻 Technology & Development
 *Coming Soon*
